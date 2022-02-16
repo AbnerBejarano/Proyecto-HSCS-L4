@@ -1,0 +1,20 @@
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\Honduras_Shopping.BL.dll.config
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\Honduras_Shopping.BL.dll
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\Honduras_Shopping.BL.pdb
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.dll
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.xml
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\obj\Debug\Honduras_Shopping.BL.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\obj\Debug\Honduras_Shopping.BL.dll
+C:\Users\abner\Desktop\Clases UNAH 2022\1600-LENGUAJE DE PROGRAMACION IV\repositorios\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\obj\Debug\Honduras_Shopping.BL.pdb
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\Honduras_Shopping.BL.dll.config
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\Honduras_Shopping.BL.dll
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\Honduras_Shopping.BL.pdb
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.dll
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.xml
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\obj\Debug\Honduras_Shopping.BL.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\obj\Debug\Honduras_Shopping.BL.dll
+C:\Users\abner\Desktop\Proyecto_L4-main\Honduras_Shopping\Honduras_Shopping.BL\obj\Debug\Honduras_Shopping.BL.pdb
